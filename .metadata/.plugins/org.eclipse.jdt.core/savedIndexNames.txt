@@ -6,7 +6,6 @@ INDEX VERSION 1.132+G:\INF HKA\Algo workspace\.metadata\.plugins\org.eclipse.jdt
 2785048714.index
 3025565460.index
 3417251774.index
-1719824048.index
 2987283119.index
 4038431134.index
 2325111487.index

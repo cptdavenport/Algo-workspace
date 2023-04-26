@@ -16,15 +16,10 @@ import de.hska.iwi.ads.search.SearchTest;
  */
 class BinarySearchTest extends SearchTest {
 
-	@Test
-	void test() {
-		fail("Not yet implemented");
-	}
-
 	@Override
 	public <E extends Comparable<E>> Search<E> createSearch() {
-		// TODO Auto-generated method stub
-		return null;
+		return new BinarySearch();
 	}
-
+	
+	
 }

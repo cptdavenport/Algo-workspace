@@ -1,0 +1,21 @@
+INDEX VERSION 1.132+G:\INF HKA\Algo workspace\.metadata\.plugins\org.eclipse.jdt.core
+760553301.index
+48962355.index
+2424646841.index
+4051321530.index
+2785048714.index
+3025565460.index
+3417251774.index
+1719824048.index
+2987283119.index
+4038431134.index
+2325111487.index
+3906518089.index
+4003591116.index
+1486218776.index
+4284294994.index
+2197767887.index
+2669923960.index
+1481239680.index
+4238841116.index
+1865797976.index

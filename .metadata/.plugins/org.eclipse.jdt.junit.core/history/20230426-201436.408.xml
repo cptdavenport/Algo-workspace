@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="CircleTest" project="labor_loesung" tests="5" started="5" failures="0" errors="0" ignored="0">
-  <testsuite name="de.hska.iwi.ads.solution.interfaces.CircleTest" time="0.023" displayname="CircleTest" uniqueid="[engine:junit-jupiter]/[class:de.hska.iwi.ads.solution.interfaces.CircleTest]">
-    <testcase name="testCircleDouble" classname="de.hska.iwi.ads.solution.interfaces.CircleTest" time="0.014" displayname="testCircleDouble()" uniqueid="[engine:junit-jupiter]/[class:de.hska.iwi.ads.solution.interfaces.CircleTest]/[method:testCircleDouble()]"/>
-    <testcase name="testArea1" classname="de.hska.iwi.ads.solution.interfaces.CircleTest" time="0.007" displayname="testArea1()" uniqueid="[engine:junit-jupiter]/[class:de.hska.iwi.ads.solution.interfaces.CircleTest]/[method:testArea1()]"/>
-    <testcase name="testArea2" classname="de.hska.iwi.ads.solution.interfaces.CircleTest" time="0.001" displayname="testArea2()" uniqueid="[engine:junit-jupiter]/[class:de.hska.iwi.ads.solution.interfaces.CircleTest]/[method:testArea2()]"/>
-    <testcase name="testGetRadius1" classname="de.hska.iwi.ads.solution.interfaces.CircleTest" time="0.0" displayname="testGetRadius1()" uniqueid="[engine:junit-jupiter]/[class:de.hska.iwi.ads.solution.interfaces.CircleTest]/[method:testGetRadius1()]"/>
-    <testcase name="testScale1" classname="de.hska.iwi.ads.solution.interfaces.CircleTest" time="0.0" displayname="testScale1()" uniqueid="[engine:junit-jupiter]/[class:de.hska.iwi.ads.solution.interfaces.CircleTest]/[method:testScale1()]"/>
-  </testsuite>
-</testrun>

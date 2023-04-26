@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename package &apos;de.hska.ads.solution.search&apos; to &apos;de.hska.iwi.ads.solution.search&apos;&#x0D;&#x0A;- Original project: &apos;labor_loesung&apos;&#x0D;&#x0A;- Original element: &apos;labor_loesung/src/de.hska.ads.solution.search&apos;&#x0D;&#x0A;- Renamed element: &apos;labor_loesung/src/de.hska.iwi.ads.solution.search&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;de.hska.ads.solution.search&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;de.hska.ads.solution.search" name="de.hska.iwi.ads.solution.search" qualified="false" references="true" stamp="1682533567442" textual="false" version="1.0"/>
-</session>

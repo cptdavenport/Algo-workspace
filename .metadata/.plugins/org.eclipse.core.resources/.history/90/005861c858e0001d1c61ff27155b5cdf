@@ -1,7 +1,0 @@
-package de.hska.iwi.ads.solution.interfaces;
-
-import de.hska.iwi.ads.interfaces.AbstractCircle;
-
-public class Circle extends AbstractCircle{
-
-}

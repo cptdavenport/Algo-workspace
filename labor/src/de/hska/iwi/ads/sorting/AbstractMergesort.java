@@ -2,7 +2,7 @@ package de.hska.iwi.ads.sorting;
 
 /**
  * Basistyp von Mergesort-Implementierungen, die
- * den initalen Aufruf enthält und den linearen
+ * den initalen Aufruf enthï¿½lt und den linearen
  * Zusatzspeicher erzeugt.
  */
 public abstract class AbstractMergesort<E extends Comparable<E>> implements Sort<E> {
